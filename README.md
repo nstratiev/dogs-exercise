@@ -1,3 +1,3 @@
 # Learning Git/Github exercise
 
-Teacher: Colt
+Teacher: Colt S
